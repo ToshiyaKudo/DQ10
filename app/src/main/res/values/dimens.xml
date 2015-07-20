@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 標準テキストサイズ -->
+    <dimen name="text_size_minimum">11sp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium_light">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_extra_large">24sp</dimen>
+    <dimen name="text_size_huge">28sp</dimen>
+
+    <!-- 固定テキストサイズ -->
+    <dimen name="text_size_micro_fix">12dp</dimen>
+    <dimen name="text_size_small_fix">14dp</dimen>
+    <dimen name="text_size_medium_light_fix">16dp</dimen>
+    <dimen name="text_size_medium_fix">18dp</dimen>
+    <dimen name="text_size_large_fix">20dp</dimen>
+    <dimen name="text_size_extra_large_fix">24dp</dimen>
+    <dimen name="text_size_huge_fix">28dp</dimen>
+
+    <!-- Template View Margin -->
+    <dimen name="margin_micro">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium_light">6dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_large">12dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_extra_large">24dp</dimen>
+    <dimen name="margin_huga">28dp</dimen>
+
+    <!-- ProgressBar -->
+    <dimen name="progress_bar_size">48dp</dimen>
+
+
+    <!-- toolbar size -->
+    <dimen name="action_bar_size">56dp</dimen>
+
+    <!-- icon size -->
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="icon_size_medium">36dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+
+
+</resources>
